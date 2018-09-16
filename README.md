@@ -1,3 +1,5 @@
-# web-responsive
+# web-responsive project for {reprograma}
 
-## https://natalyapeixoto.github.io/web-responsive/
+#### practicing Responsive web design using CSS media queries.
+
+
